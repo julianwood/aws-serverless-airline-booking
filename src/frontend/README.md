@@ -50,7 +50,7 @@ We use the following conventions to ease maintenance as we grow the number of mo
 * **GraphQL** - Custom GraphQL operations have a dedicated file close to its module (e.g. `catalog/graphql.js`)
 * **Shared Models** - Data permutation such as formatting flight departure dates differently are done at a class property level e.g. (e.g. `FlightClass`)
 * **Code documentation** - We document following JSDoc convention
-
+1
 ## Running locally
 
 You can run the front-end locally while targeting the back-end and auth deployed in your AWS account. 
